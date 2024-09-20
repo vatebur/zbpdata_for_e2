@@ -1,0 +1,6 @@
+记录以"实物商店"触发的代表我执行的指令
+run[CQ:image,file=file:///xxx/data/Atri/store.png]
+
+
+记录以"生气"触发的代表我执行的指令
+run[CQ:video,file=file:///xxx/data/Atri/angry.mp4]
